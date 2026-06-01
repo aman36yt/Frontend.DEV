@@ -1,2 +1,7 @@
 # Frontend.DEV
 "Journey to master ^"
+
+# CONTENTS
+-->1. HTML(HYPER TEXT MARKUP LANGAUGE)
+-->2. CSS(CASCADING STYLE SHEETS)
+-->3. JAVASCRIPT
